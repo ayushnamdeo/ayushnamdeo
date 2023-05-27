@@ -1,0 +1,6 @@
+﻿  Calculation.cpp
+E:\Simyog\Project2\FileRead.h(7,1): error C2504: 'Calculation': base class undefined
+E:\Simyog\Project2\FileRead.h(19,20): error C3861: 'getsize': identifier not found
+E:\Simyog\Project2\FileRead.h(22,26): error C3861: 'getnodes': identifier not found
+E:\Simyog\Project2\FileRead.h(28,42): error C3861: 'get_cordinates': identifier not found
+E:\Simyog\Project2\FileRead.h(35,20): error C3861: 'areatriangle': identifier not found
